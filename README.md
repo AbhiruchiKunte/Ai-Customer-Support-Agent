@@ -8,14 +8,8 @@ The system combines **Google Gemini 3.5 Flash**, **custom RAG vector search**, *
 
 ## 🎬 Demo
 
-> **Demo Preview**: Watch the Aster & Row AI Support Agent in action handling order lookups, policy citations, human handoff, and privacy protection.
-
-```markdown
-<!-- Embed reference for project repository demo -->
-![Aster & Row Customer Support Agent Demo](docs/demo.gif)
-```
-
-*(If the GIF preview is not rendering in your markdown viewer, you can view the recording directly at [`docs/demo.gif`](docs/demo.gif) or [`docs/demo.mp4`](docs/demo.mp4).)*
+> **Demo Preview**: 
+![Aster & Row Customer Support Agent Demo](docs/demo.mp4)
 
 ---
 
