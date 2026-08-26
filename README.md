@@ -8,8 +8,13 @@ The system combines **Google Gemini 3.5 Flash**, **custom RAG vector search**, *
 
 ## 🎬 Demo
 
-> **Demo Preview**: 
-![Aster & Row Customer Support Agent Demo](docs/demo.mp4)
+> **Demo Preview:** Explore the Aster & Row AI Customer Support Agent.
+
+🎥 [**Click here to watch the full demo video**](docs/demo.mp4)
+
+---
+
+## ✨ Features
 
 ---
 
